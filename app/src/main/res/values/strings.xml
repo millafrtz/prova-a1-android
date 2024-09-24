@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Prova</string>
+=======
+    <string name="app_name">Prova1</string>
+>>>>>>> 42fbebde79d300b44536c8d59d44649e86daee5f
 </resources>

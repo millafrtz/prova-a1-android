@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.Prova" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.Prova1" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 42fbebde79d300b44536c8d59d44649e86daee5f
 </resources>
